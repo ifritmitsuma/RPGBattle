@@ -1,0 +1,1080 @@
+fileFormatVersion: 2
+guid: b9c751bc0a8075545872fa7144dac17a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6112229607329376398
+    second: FoeSprites_0
+  - first:
+      213: 3876605883649565962
+    second: FoeSprites_1
+  - first:
+      213: -4455518988784545646
+    second: FoeSprites_2
+  - first:
+      213: 3979246958008736894
+    second: FoeSprites_3
+  - first:
+      213: 5310302785004389398
+    second: FoeSprites_4
+  - first:
+      213: 8733522254209502790
+    second: FoeSprites_5
+  - first:
+      213: 2900556983233763903
+    second: FoeSprites_6
+  - first:
+      213: -5998481635671403501
+    second: FoeSprites_7
+  - first:
+      213: 9160238852953939064
+    second: Zaghnol
+  - first:
+      213: 2701153211865891059
+    second: FoeSprites_9
+  - first:
+      213: -8015358228068274552
+    second: FoeSprites_10
+  - first:
+      213: -4892642726549920267
+    second: FoeSprites_11
+  - first:
+      213: 3279110517737760830
+    second: FoeSprites_12
+  - first:
+      213: -6307078548489309857
+    second: FoeSprites_13
+  - first:
+      213: 987814104325483135
+    second: FoeSprites_14
+  - first:
+      213: -5014982075632794523
+    second: FoeSprites_15
+  - first:
+      213: -7156118445506066213
+    second: FoeSprites_16
+  - first:
+      213: 8398676928704487520
+    second: FoeSprites_17
+  - first:
+      213: -4167701328824023141
+    second: FoeSprites_18
+  - first:
+      213: -725252353063094635
+    second: FoeSprites_19
+  - first:
+      213: 8131208860814951189
+    second: FoeSprites_20
+  - first:
+      213: -1029202873630747396
+    second: FoeSprites_21
+  - first:
+      213: -8828000920377030178
+    second: FoeSprites_22
+  - first:
+      213: 6926718662897714788
+    second: FoeSprites_23
+  - first:
+      213: 5898725220569283376
+    second: FoeSprites_24
+  - first:
+      213: -5188920541114061804
+    second: FoeSprites_25
+  - first:
+      213: -3267370847658860839
+    second: FoeSprites_26
+  - first:
+      213: 5190280507613937044
+    second: FoeSprites_27
+  - first:
+      213: 5672303839691269515
+    second: FoeSprites_28
+  - first:
+      213: 4325383235522873562
+    second: FoeSprites_29
+  - first:
+      213: 8819658908827937980
+    second: FoeSprites_30
+  - first:
+      213: -7681311015596069949
+    second: FoeSprites_31
+  - first:
+      213: 1627811138645222221
+    second: FoeSprites_32
+  - first:
+      213: 6833584957438391601
+    second: FoeSprites_33
+  - first:
+      213: -6561018246264946361
+    second: FoeSprites_34
+  - first:
+      213: -6562634993544749098
+    second: FoeSprites_35
+  - first:
+      213: -1046329044604263207
+    second: FoeSprites_36
+  - first:
+      213: 738117893928347857
+    second: FoeSprites_37
+  - first:
+      213: 6107326651374889794
+    second: FoeSprites_38
+  - first:
+      213: 5907528021315762908
+    second: FoeSprites_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FoeSprites_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 640
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e882e72a17003d450800000000000000
+      internalID: 6112229607329376398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 641
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a052f1513887cc530800000000000000
+      internalID: 3876605883649565962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 641
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2905d770611da22c0800000000000000
+      internalID: -4455518988784545646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 642
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c1aad7600293730800000000000000
+      internalID: 3979246958008736894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_4
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 639
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61444fd6f3cf1b940800000000000000
+      internalID: 5310302785004389398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 645
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e4020d734b33970800000000000000
+      internalID: 8733522254209502790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_6
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 614
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a5d6c5539d04820800000000000000
+      internalID: 2900556983233763903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 529
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3141a12dbbc11cca0800000000000000
+      internalID: -5998481635671403501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zaghnol
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 533
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c1d0824b4bf1f70800000000000000
+      internalID: 9160238852953939064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 532
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f00c2de88c6c7520800000000000000
+      internalID: 2701153211865891059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 539
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e6c74a82ab3c090800000000000000
+      internalID: -8015358228068274552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_11
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 538
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5e71fcc57d91cb0800000000000000
+      internalID: -4892642726549920267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_12
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 539
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38a10574adb18d20800000000000000
+      internalID: 3279110517737760830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_13
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 514
+        width: 61
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51fecaf971c878a0800000000000000
+      internalID: -6307078548489309857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 425
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ae078b1bb65bd00800000000000000
+      internalID: 987814104325483135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 423
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564c4fa6f54376ab0800000000000000
+      internalID: -5014982075632794523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_16
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 420
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd88df4403c50bc90800000000000000
+      internalID: -7156118445506066213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_17
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 426
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06023b62b281e8470800000000000000
+      internalID: 8398676928704487520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_18
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 423
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97458d09b95926c0800000000000000
+      internalID: -4167701328824023141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_19
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 409
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5967823d3d26fe5f0800000000000000
+      internalID: -725252353063094635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_20
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 412
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513426fb06bd7d070800000000000000
+      internalID: 8131208860814951189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_21
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 412
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf49d6b707987b1f0800000000000000
+      internalID: -1029202873630747396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_22
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 413
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed90b188fe3ac7580800000000000000
+      internalID: -8828000920377030178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_23
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 309
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4664611bce5a02060800000000000000
+      internalID: 6926718662897714788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_24
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 313
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b7ba7d55b7cd150800000000000000
+      internalID: 5898725220569283376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 313
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c2b2b82404df7b0800000000000000
+      internalID: -5188920541114061804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_26
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 313
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de93db7687f7a2d0800000000000000
+      internalID: -3267370847658860839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_27
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 298
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d76f45f94970840800000000000000
+      internalID: 5190280507613937044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_28
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 303
+        width: 59
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85e1eef94218be40800000000000000
+      internalID: 5672303839691269515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_29
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 302
+        width: 99
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad845c6c229d60c30800000000000000
+      internalID: 4325383235522873562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_30
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 155
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc6ccc8c09b56a70800000000000000
+      internalID: 8819658908827937980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 161
+        width: 86
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbe9122450866590800000000000000
+      internalID: -7681311015596069949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_32
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 161
+        width: 86
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d436f582b95279610800000000000000
+      internalID: 1627811138645222221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_33
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 161
+        width: 62
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135719a1055c5de50800000000000000
+      internalID: 6833584957438391601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_34
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 165
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7418582baa492f4a0800000000000000
+      internalID: -6561018246264946361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_35
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 161
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df97336e36dce4a0800000000000000
+      internalID: -6562634993544749098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_36
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 10
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d460321741ba71f0800000000000000
+      internalID: -1046329044604263207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 6
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d865f550525e3a00800000000000000
+      internalID: 738117893928347857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_38
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 8
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24be97e3b3591c450800000000000000
+      internalID: 6107326651374889794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoeSprites_39
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2
+        width: 127
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda313b9f61cbf150800000000000000
+      internalID: 5907528021315762908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
